@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Airinfinite
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning MATLAB.
-- 💞️ I’m looking to collaborate on learning.
+- 💞️ I’m looking for some friends to study together.
 - 📫 How to reach me : 9186256@gmail.com
 
 <!---
