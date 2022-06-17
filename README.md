@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Airinfinite
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Python.
 - 💞️ I’m looking for some friends to study together.
 - 📫 How to reach me : 9186256@gmail.com
 
